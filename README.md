@@ -14,10 +14,11 @@ contoh seperti ini : <br>
   Disini, Saya masih menggunakan project di tugas sepuluh kemarin, jadi sekarang Saya hanya tinggal menambahkan lagi satu tombol intent untuk menuju activity fragment nya. Langsung saja tanpa berlama lagi, kita masuk ke tahap pengerjaannya.
   - Pertama, buat sebuah class java baru, disini saya menamai classnya FragmentActivity.
     ![ezgif com-video-to-gif (4)](https://github.com/DYRHEEEN/Fragment-Tab/assets/151630441/b0cadc96-2ba2-4fda-95e1-759f91424c8f)
-  - Lalu kita buat lagi tiga buah class java dan layout xml, dengan menggunakan template Fragment (blank) yang nantinya akan otomatis terbuat code java didalamnya. Caranya seperti ini:
+  - Lalu kita buat lagi tiga buah class java dan layout xml, dengan menggunakan template Fragment (blank) yang nantinya akan otomatis terbuat code java didalamnya. Caranya seperti ini:<br>
     ![ezgif com-video-to-gif (5)](https://github.com/DYRHEEEN/Fragment-Tab/assets/151630441/d39a6165-6db3-4526-9ebf-8d5b9efc9ce3)
-    > buat hingga sebanyak tiga buah.
-    - Buat satu buah layout lagi untuk halaman dari fragment activity ini. Saya menamainya *activity_fragment.xml*
+    > buat sebanyak tiga buah yaitu FirstFragment, SecondFragment, ThirdFragment.
+  - Buat satu buah layout lagi untuk halaman dari fragment activity ini. Saya menamainya *activity_fragment.xml*
+    ![ezgif com-video-to-gif (6)](https://github.com/DYRHEEEN/Fragment-Tab/assets/151630441/6fa92d33-2d08-4bf2-a45c-dfad9a29f8e7)
   - Jika sudah, kita tambahkan terlebih dahulu beberapa baris code untuk dependencies di gradle.build.kts. Berikut adalah kodenya :
     ```
     val fragmentVersion = "1.6.2"
