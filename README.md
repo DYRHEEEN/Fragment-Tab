@@ -344,4 +344,7 @@ contoh seperti ini : <br>
 
 ## Hasil RUN
 
+https://github.com/DYRHEEEN/Fragment-Tab/assets/151630441/5c3a68d5-7664-4df1-bae0-fb2d7ef17e7a
+
+
     
