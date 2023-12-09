@@ -346,5 +346,4 @@ contoh seperti ini : <br>
 
 https://github.com/DYRHEEEN/Fragment-Tab/assets/151630441/5c3a68d5-7664-4df1-bae0-fb2d7ef17e7a
 
-
-    
+<p align="center">Copyrights &copy; Rhendy Diki Nugraha 12-9-2023</p>
